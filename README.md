@@ -12,7 +12,7 @@
 - 🎓 Currently pursuing B.Tech in AI & ML  
 - 💻 Skilled in **Python**, **Data Analysis**, and **Machine Learning**  
 - 🧠 Exploring topics like **regression models**, **time series analysis**, and **project-based learning**  
-- 🔭 Currently working on ML projects like **Weather Prediction** using real datasets  
+- 🔭 Currently working on ML projects like **Weather Prediction** , **Restaurant Popularity Prediction** etc using real datasets  
 - 📚 Always open to internships, collaborations, and learning opportunities
 
 ---
