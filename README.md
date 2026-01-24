@@ -19,7 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-```python
 Languages: Python, C  
 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
 Tools: Jupyter Notebook, VS Code, Git & GitHub
