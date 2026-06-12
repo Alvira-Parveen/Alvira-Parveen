@@ -88,6 +88,7 @@
 
 **🤖 AI / ML / Deep Learning**
 - [Student-Burnout-Prediction](https://github.com/Alvira-Parveen/Student-Burnout-Prediction)
+- [Emotion-Aware-NPC-Project](https://github.com/Alvira-Parveen/Emotion-Aware-NPC-Project)
 - [Multimodal Fake News Detection](https://github.com/Alvira-Parveen/multimodal-fake-news-)
 - [CSAT Prediction (eCommerce)](https://github.com/Alvira-Parveen/CSAT-Prediction-eCommerce-Customer-Support-)
 - [flipkart-customer-satisfaction](https://github.com/Alvira-Parveen/flipkart-customer-satisfaction)
@@ -123,10 +124,7 @@
 - [Portfolio](https://github.com/Alvira-Parveen/Portfolio)
 
 **🦾 Assistive Tech**
-- [AutoChair_Hackathon](https://github.com/Alvira-Parveen/AutoChair_Hackathon) *(generic-named, patent in progress)*
-
-**🎮 Other**
-- [Emotion-Aware-NPC-Project](https://github.com/Alvira-Parveen/Emotion-Aware-NPC-Project)
+- [AutoChair_Hackathon](https://github.com/Alvira-Parveen/AutoChair_Hackathon)  
 
 ---
 
