@@ -12,13 +12,13 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd Year B.Tech CSE (AI/ML) student at Sharda University, Greater Noida — 9.0 CGPA
-- 🏢 Founder & CEO @ **Aivon Innovations Pvt. Ltd.** — building AI-driven assistive technology, incubated at Sharda Launchpad (DST NIDHI & DPIIT backed)
-- 🧠 Currently building a smart mobility **assistive-tech device** with sensor fusion, edge AI, and real-time obstacle avoidance
-- 💼 AI/ML Intern @ Labmentix | Gen AI Developer @ Elevance Skill
-- 🌱 Open Source Contributor & Project Admin — GSSoC 2026
+- 🎓 3rd Year B.Tech CSE (AI/ML) student at **Sharda University, Greater Noida** — 9.0 CGPA
+- 🏢 **Founder & CEO @ Aivon Innovations Pvt. Ltd.** — building AI-driven assistive technology, incubated at Sharda Launchpad (DST NIDHI & DPIIT backed)
+- 🧠 Currently building a **smart mobility assistive-tech device** with sensor fusion, edge AI, and real-time obstacle avoidance
+- 💼 AI/ML Intern **@ Labmentix** | Gen AI Developer **@ Elevance Skill**
 - 📄 Published research paper at **IMPACT-2026 International Conference**
 - 🛠️ 27 repositories spanning ML, NLP, Deep Learning, Computer Vision, and Generative AI
+- **Open to:** AI/ML Engineer Roles · Software Engineering Internships · Research Collaborations
 
 ---
 
