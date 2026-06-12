@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvira Parveen</h1>
-<h3 align="center">AI & ML Enthusiast | B.Tech (2nd Year) | Pythonista 🐍 | Explorer of Real-World Data 🌍</h3>
+<h3 align="center">AI & ML Enthusiast | B.Tech (3rd Year) | Pythonista 🐍 | Explorer of Real-World Data 🌍</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-Languages: Python, C  
+Languages: Python, C, Java
 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
 Tools: Jupyter Notebook, VS Code, Git & GitHub
 
