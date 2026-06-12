@@ -1,31 +1,99 @@
-<h1 align="center">Hi 👋, I'm Alvira Parveen</h1>
-<h3 align="center">AI & ML Enthusiast | B.Tech (3rd Year) | Pythonista 🐍 | Explorer of Real-World Data 🌍</h3>
+<h1 align="center">Hi, I'm Alvira Parveen👋</h1>
+<h3 align="center">B.Tech CSE (AI/ML) Student | Founder & Builder | AI/ML Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-9.0-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Founder-Aivon%20Innovations-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-green?style=flat-square" />
+</p>
 
 ---
 
-💡 I'm a third-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**. I’m deeply passionate about using technology to solve real-world problems and build intelligent solutions that create impact.
+### 🚀 About Me
+
+- 🎓 3rd Year B.Tech CSE (AI/ML) student at Sharda University, Greater Noida — 9.0 CGPA
+- 🏢 Founder & CEO @ **Aivon Innovations Pvt. Ltd.** — building AI-driven assistive technology, incubated at Sharda Launchpad (DST NIDHI & DPIIT backed)
+- 🧠 Currently building a smart mobility **assistive-tech device** with sensor fusion, edge AI, and real-time obstacle avoidance
+- 💼 AI/ML Intern @ Labmentix | Gen AI Developer @ Elevance Skill
+- 🌱 Open Source Contributor & Project Admin — GSSoC 2026
+- 📄 Published research paper at **IMPACT-2026 International Conference**
+- 🛠️ 27 repositories spanning ML, NLP, Deep Learning, Computer Vision, and Generative AI
 
 ---
 
-## 🚀 About Me
+### 🧰 Tech Stack
 
-- 🎓 Currently pursuing B.Tech in AI & ML  
-- 💻 Skilled in **Python**, **Data Analysis**, and **Machine Learning**  
-- 🧠 Exploring topics like **regression models**, **time series analysis**, and **project-based learning**  
-- 🔭 Currently working on ML projects like **Weather Prediction** , **Restaurant Popularity Prediction** etc using real datasets  
-- 📚 Always open to internships, collaborations, and learning opportunities
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+**ML / AI / Data**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=flat-square" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🔥 Featured Projects
 
-Languages: Python, C, Java
-Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
-Tools: Jupyter Notebook, VS Code, Git & GitHub
+| Project | Description | Tech |
+|---|---|---|
+| 🦾 **Smart Mobility Assistive Device** | AI/ML-powered assistive tech for mobility-impaired users — sensor fusion, edge AI, real-time navigation | ESP32, Python, IMU, Sensor Fusion |
+| ♿ **WheelScan** | Flutter-based accessibility auditor app, deployed on Firebase | Flutter, Dart, Firebase |
+| ☁️ **CloudPulse** | Full-stack cloud monitoring app with CI/CD pipeline | Flask, MongoDB, Docker, Render |
+| 📊 **CSAT Prediction (eCommerce)** | NLP-based customer satisfaction prediction model for Flipkart support data | Python, NLP, scikit-learn |
+| 🧠 **Student Burnout Prediction** | Predicts student burnout using ML on OULAD dataset, deployed via Streamlit | XGBoost, Random Forest, Streamlit |
+| 📰 **Multimodal Fake News Detection** | Detects fake news using text + image multimodal models | Python, NLP, CV, Deep Learning |
+| ✈️ **AI Travel Planner** | AI-powered personalized travel itinerary generator | Python, Generative AI |
+| 📈 **Tesla Stock Price Prediction** | Time-series stock price forecasting model | Python, LSTM, Pandas |
 
 ---
 
-## 📫 Let's Connect
+### 📊 GitHub Stats
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/alvira-parveen-78022536b)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvira-Parveen&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvira-Parveen&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvira-Parveen&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/alvira-parveen-78022536b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:alviraparveen27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="[https://your-portfolio-link](https://alvira-parveen.github.io/Portfolio/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>"Building intelligent systems that make a real-world difference — one project at a time."</i></p>
