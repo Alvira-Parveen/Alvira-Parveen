@@ -3,7 +3,7 @@
 
 ---
 
-💡 I'm a second-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**. I’m deeply passionate about using technology to solve real-world problems and build intelligent solutions that create impact.
+💡 I'm a third-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**. I’m deeply passionate about using technology to solve real-world problems and build intelligent solutions that create impact.
 
 ---
 
