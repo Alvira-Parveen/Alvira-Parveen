@@ -84,6 +84,52 @@
 
 ---
 
+### 📂 All Projects (Grouped by Domain)
+
+**🤖 AI / ML / Deep Learning**
+- [Student-Burnout-Prediction](https://github.com/Alvira-Parveen/Student-Burnout-Prediction)
+- [Multimodal Fake News Detection](https://github.com/Alvira-Parveen/multimodal-fake-news-)
+- [CSAT Prediction (eCommerce)](https://github.com/Alvira-Parveen/CSAT-Prediction-eCommerce-Customer-Support-)
+- [flipkart-customer-satisfaction](https://github.com/Alvira-Parveen/flipkart-customer-satisfaction)
+- [fraud_detection_using-ML-](https://github.com/Alvira-Parveen/fraud_detection_using-ML-)
+- [decision_tree_credit_risk](https://github.com/Alvira-Parveen/decision_tree_credit_risk)
+- [restaurant-popularity-prediction](https://github.com/Alvira-Parveen/restaurant-popularity-prediction)
+- [Intelligent-Movie-Recommender](https://github.com/Alvira-Parveen/Intelligent-Movie-Recommender)
+- [ai_learning_style_tutor](https://github.com/Alvira-Parveen/ai_learning_style_tutor)
+- [Tesla_Stock_Price_Prediction](https://github.com/Alvira-Parveen/Tesla_Stock_Price_Prediction)
+
+**🧠 NLP / Generative AI**
+- [sentiment-analysis-tfidf-logistic](https://github.com/Alvira-Parveen/sentiment-analysis-tfidf-logistic)
+- [Text-Summarization-Tool](https://github.com/Alvira-Parveen/Text-Summarization-Tool)
+- [Generative-Text-Model](https://github.com/Alvira-Parveen/Generative-Text-Model)
+- [multimodal-ai-search](https://github.com/Alvira-Parveen/multimodal-ai-search)
+
+**👁️ Computer Vision**
+- [cnn-image-classification](https://github.com/Alvira-Parveen/cnn-image-classification)
+- [Neural-Style-Transfer](https://github.com/Alvira-Parveen/Neural-Style-Transfer)
+
+**🎙️ Speech**
+- [Speech-Recognition-System](https://github.com/Alvira-Parveen/Speech-Recognition-System)
+- [Speech-To-Text-Transcription](https://github.com/Alvira-Parveen/Speech-To-Text-Transcription)
+
+**📊 Data Analysis**
+- [Weather-Data-Analysis](https://github.com/Alvira-Parveen/Weather-Data-Analysis)
+- [student-performance-system](https://github.com/Alvira-Parveen/student-performance-system)
+
+**🌐 Full-Stack / Apps**
+- [cloud-pulse-](https://github.com/Alvira-Parveen/cloud-pulse-)
+- [AI-Travel-Planner](https://github.com/Alvira-Parveen/AI-Travel-Planner)
+- [WheelScan](https://github.com/Alvira-Parveen/WheelScan)
+- [Portfolio](https://github.com/Alvira-Parveen/Portfolio)
+
+**🦾 Assistive Tech**
+- [AutoChair_Hackathon](https://github.com/Alvira-Parveen/AutoChair_Hackathon) *(generic-named, patent in progress)*
+
+**🎮 Other**
+- [Emotion-Aware-NPC-Project](https://github.com/Alvira-Parveen/Emotion-Aware-NPC-Project)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
