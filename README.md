@@ -128,6 +128,111 @@
 
 ---
 
+## Certificates
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/impact-conference.png" width="100%"/><br/>
+<b>IMPACT Conference 2026</b><br/>
+<sub>International Conference on Multidisciplinary Perspectives in Advanced Computing & Technology · Jan 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/ef-set-english.png" width="100%"/><br/>
+<b>EF SET English Certificate (C2 Proficient)</b><br/>
+<sub>EF SET · Mar 2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/innovate-bharat-hackathon.png" width="100%"/><br/>
+<b>Innovate Bharat Hackathon 2026 Finale</b><br/>
+<sub>Sharda School of Computing Science & Engineering · Apr 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/elevanceskills-genai-bot.png" width="100%"/><br/>
+<b>Real-Time Gen AI Customer Service Bot Training</b><br/>
+<sub>ElevanceSkills · Mar 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/aws-prompt-engineering.png" width="100%"/><br/>
+<b>Essentials of Prompt Engineering</b><br/>
+<sub>Amazon Web Services (AWS) · Oct 2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/oracle-ai-database.png" width="100%"/><br/>
+<b>Applied Database Systems using Oracle AI Database</b><br/>
+<sub>Oracle Academy · Apr 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/aws-student-community-day.png" width="100%"/><br/>
+<b>AWS Student Community Day Delhi NCR 2026</b><br/>
+<sub>Amazon Web Services (AWS) · Mar 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/ybi-ai-ml-ds-internship.png" width="100%"/><br/>
+<b>AI-ML with Data Science Internship</b><br/>
+<sub>YBI Foundation · Jun 2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/codec-ai-training.png" width="100%"/><br/>
+<b>Artificial Intelligence Training</b><br/>
+<sub>Codec Technologies India · Jul 2025</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/codec-ai-internship.png" width="100%"/><br/>
+<b>1-Month Internship in Artificial Intelligence</b><br/>
+<sub>Codec Technologies India · Jul 2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/codtech-ai-internship.png" width="100%"/><br/>
+<b>Artificial Intelligence Internship</b><br/>
+<sub>CodTech IT Solutions · Aug 2025</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/skillorbit-ml-internship.png" width="100%"/><br/>
+<b>Machine Learning Internship</b><br/>
+<sub>SkillOrbit · Apr 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/yuva-ml-engineer.png" width="100%"/><br/>
+<b>Machine Learning Engineer</b><br/>
+<sub>Yuva Intern by Henry Harvin · Feb 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/yuva-ds-coordinator.png" width="100%"/><br/>
+<b>Data Science Project Coordinator</b><br/>
+<sub>Yuva Intern by Henry Harvin · Feb 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/corporate-web-ds-internship.png" width="100%"/><br/>
+<b>Data Science Internship</b><br/>
+<sub>Corporate Web Solutions · Mar 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="certificates/ey-techathon.png" width="100%"/><br/>
+<b>EY Techathon 6.0 Participation</b><br/>
+<sub>EY · Apr 2026</sub>
+</td>
+<td align="center" width="33%">
+<img src="certificates/ai-impact-summit.png" width="100%"/><br/>
+<b>AI Impact Summit 2026</b><br/>
+<sub>HCL GUVI · Jan 2026</sub>
+</td>
+<td align="center" width="33%">
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
