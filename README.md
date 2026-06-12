@@ -139,6 +139,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvira-Parveen&layout=compact&theme=tokyonight" />
 </p>
 
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Alvira-Parveen&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Alvira-Parveen&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvira-Parveen&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+</div>
+
 ---
 
 ### 📫 Connect with Me
