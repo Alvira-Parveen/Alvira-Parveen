@@ -73,14 +73,14 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🦾 **Smart Mobility Assistive Device** | AI/ML-powered assistive tech for mobility-impaired users — sensor fusion, edge AI, real-time navigation | ESP32, Python, IMU, Sensor Fusion |
-| ♿ **WheelScan** | Flutter-based accessibility auditor app, deployed on Firebase | Flutter, Dart, Firebase |
-| ☁️ **CloudPulse** | Full-stack cloud monitoring app with CI/CD pipeline | Flask, MongoDB, Docker, Render |
-| 📊 **CSAT Prediction (eCommerce)** | NLP-based customer satisfaction prediction model for Flipkart support data | Python, NLP, scikit-learn |
-| 🧠 **Student Burnout Prediction** | Predicts student burnout using ML on OULAD dataset, deployed via Streamlit | XGBoost, Random Forest, Streamlit |
-| 📰 **Multimodal Fake News Detection** | Detects fake news using text + image multimodal models | Python, NLP, CV, Deep Learning |
-| ✈️ **AI Travel Planner** | AI-powered personalized travel itinerary generator | Python, Generative AI |
-| 📈 **Tesla Stock Price Prediction** | Time-series stock price forecasting model | Python, LSTM, Pandas |
+| 🦾 [**Smart Mobility Assistive Device**](https://github.com/Alvira-Parveen/AutoChair_Hackathon) | AI/ML-powered assistive tech for mobility-impaired users — sensor fusion, edge AI, real-time navigation | ESP32, Python, IMU, Sensor Fusion |
+| ♿ [**WheelScan**](https://github.com/Alvira-Parveen/WheelScan) | Flutter-based accessibility auditor app, deployed on Firebase | Flutter, Dart, Firebase |
+| 🧠 [**Student Burnout Prediction**](https://github.com/Alvira-Parveen/Student-Burnout-Prediction) | Predicts student burnout using ML on OULAD dataset, deployed via Streamlit | XGBoost, Random Forest, Streamlit |
+| 📰 [**Multimodal Fake News Detection**](https://github.com/Alvira-Parveen/multimodal-fake-news-) | Detects fake news using text + image multimodal models | Python, NLP, CV, Deep Learning |
+| ✈️ [**AI Travel Planner**](https://github.com/Alvira-Parveen/AI-Travel-Planner) | AI-powered personalized travel itinerary generator | Python, Generative AI |
+| 📈 [**Tesla Stock Price Prediction**](https://github.com/Alvira-Parveen/Tesla_Stock_Price_Prediction) | Time-series stock price forecasting model | Python, LSTM, Pandas |
+| 📊 [**CSAT Prediction (eCommerce)**](https://github.com/Alvira-Parveen/CSAT-Prediction-eCommerce-Customer-Support-) | NLP-based customer satisfaction prediction model for Flipkart support data | Python, NLP, scikit-learn |
+| ☁️ [**CloudPulse**](https://github.com/Alvira-Parveen/cloud-pulse-) | Full-stack cloud monitoring app with CI/CD pipeline | Flask, MongoDB, Docker, Render |
 
 ---
 
