@@ -151,4 +151,4 @@
 
 ---
 
-<p align="center"><i>"Building intelligent systems that make a real-world difference — one project at a time."</i></p>
+<p align="center"><i>"Turning the dreams I've carried since childhood into intelligent systems that make a real-world difference 🍁"</i></p>
