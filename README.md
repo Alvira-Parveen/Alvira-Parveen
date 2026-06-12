@@ -128,7 +128,7 @@
 
 ---
 
-## Certificates
+## 📈 Certificates
 <table>
 <tr>
 <td align="center" width="33%">
