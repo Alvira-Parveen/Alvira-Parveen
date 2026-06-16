@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/CGPA-9.0-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Founder-Aivon%20Innovations-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-green?style=flat-square" />
 </p>
 
 ---
