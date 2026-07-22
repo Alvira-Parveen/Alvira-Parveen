@@ -97,12 +97,18 @@
 - [Intelligent-Movie-Recommender](https://github.com/Alvira-Parveen/Intelligent-Movie-Recommender)
 - [ai_learning_style_tutor](https://github.com/Alvira-Parveen/ai_learning_style_tutor)
 - [Tesla_Stock_Price_Prediction](https://github.com/Alvira-Parveen/Tesla_Stock_Price_Prediction)
+- [Shopper_Spectrum](https://github.com/Alvira-Parveen/Shopper_Spectrum-)
 
 **🧠 NLP / Generative AI**
 - [sentiment-analysis-tfidf-logistic](https://github.com/Alvira-Parveen/sentiment-analysis-tfidf-logistic)
 - [Text-Summarization-Tool](https://github.com/Alvira-Parveen/Text-Summarization-Tool)
 - [Generative-Text-Model](https://github.com/Alvira-Parveen/Generative-Text-Model)
 - [multimodal-ai-search](https://github.com/Alvira-Parveen/multimodal-ai-search)
+
+**🕸️ Agentic AI / Multi-Agent Systems**
+- [Multi-Agent-AI](https://github.com/Alvira-Parveen/Multi-Agent-AI)
+- [Match_Sense](https://github.com/Alvira-Parveen/Match_Sense)
+- [Tactix_AI](https://github.com/Alvira-Parveen/Tactix_AI)
 
 **👁️ Computer Vision**
 - [cnn-image-classification](https://github.com/Alvira-Parveen/cnn-image-classification)
