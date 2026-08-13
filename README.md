@@ -90,6 +90,7 @@
 - [Emotion-Aware-NPC-Project](https://github.com/Alvira-Parveen/Emotion-Aware-NPC-Project)
 - [Multimodal Fake News Detection](https://github.com/Alvira-Parveen/multimodal-fake-news-)
 - [CSAT Prediction (eCommerce)](https://github.com/Alvira-Parveen/CSAT-Prediction-eCommerce-Customer-Support-)
+- [Voyage-Analytics_Production-MLOps-Travel-Platform](https://github.com/Alvira-Parveen/Voyage-Analytics_Production-MLOps-Travel-Platform)
 - [flipkart-customer-satisfaction](https://github.com/Alvira-Parveen/flipkart-customer-satisfaction)
 - [fraud_detection_using-ML-](https://github.com/Alvira-Parveen/fraud_detection_using-ML-)
 - [decision_tree_credit_risk](https://github.com/Alvira-Parveen/decision_tree_credit_risk)
