@@ -16,7 +16,7 @@
 - 🧠 Currently building a **smart mobility assistive-tech device** with sensor fusion, edge AI, and real-time obstacle avoidance
 - 💼 AI/ML Intern **@ Labmentix** | Gen AI Developer **@ Elevance Skill**
 - 📄 Published research paper at **IMPACT-2026 International Conference**
-- 🛠️ 27 repositories spanning ML, NLP, Deep Learning, Computer Vision, and Generative AI
+- 🛠️ 39 repositories spanning ML, NLP, Deep Learning, Computer Vision, and Generative AI
 - **Open to:** AI/ML Engineer Roles · Software Engineering Internships · Research Collaborations
 
 ---
